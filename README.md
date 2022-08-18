@@ -7,7 +7,7 @@ The code was produced in C++ in the Game Development program at New Brunswick Co
 
 ## Getting Started
 
-The program consists of RPG main character generator with random characteristics and attributes. It uses the console to show the information.
+The program consists of RPG die roller generator. It uses the console to show the information.
 
 ### Dependencies
 
